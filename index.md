@@ -1,37 +1,20 @@
-## Bem vindo a minha página do GitHub.
+## FORMAÇÃO ACADÊMICA
+-	MBA em Business Intelligence (Universidade Positivo, 2019);
+-	Especialista em Governança de TI (IERGS-Uniasselvi, 2018);
+-	Tecnólogo em Análise e Desenvolvimento de Sistemas (IFRS Campus Restinga, 2017).
 
-You can use the [editor on GitHub](https://github.com/rodrigomaria1985/rodrigomaria1985.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## CURSOS E CERTIFICAÇÕES
+-	Scrum Fundamentals Certified™ (SCRUMstudy, 2018);
+-	Scrum Foundation Professional Certificate (CertiProf®, 2018);
+-	Curso de Extensão Students to Business (PUCRS-Microsoft, 2017).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EXPERIÊNCIAS PROFISSIONAIS
+-	Ex-colaborador da ITSX (2018-2019) - Integradora de Tecnologias e Soluções, empresa parceira da solução SoftExpert Excellence Suite, tendo atuado como consultor de implantação nos componentes Documento (GED), Processo (BPM) e Analytics (BI), com 800 horas de consultoria prestadas;
+-	Ex-colaborador da Difoccus Produções (2004-2017), empresa produtora de formaturas, tendo atuado inicialmente como auxiliar de escritório e finalizando como editor e diretor de vídeo e TI.
 
-### Markdown
+## ATIVIDADES ATUAIS
+-	Colaborador da Central do Franqueado, empresa criadora de plataforma web/mobile para gerenciamento de franquias, atuando como estagiário em desenvolvimento JavaScript;
+-	Cursando 2º semestre em Sistemas para Internet (IFRS Campus Porto Alegre, previsão de formatura em 2021).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rodrigomaria1985/rodrigomaria1985.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## CONTATO
+[LinkedIn](https://www.linkedin.com/in/rodrigomaria/)
