@@ -1,4 +1,4 @@
-## Rodrigo Antônio Menezes Maria Morgão
+# Rodrigo Antônio Menezes Maria Morgão
 
 ## FORMAÇÃO ACADÊMICA
 -	MBA em Business Intelligence (Universidade Positivo, 2019);
