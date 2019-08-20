@@ -18,6 +18,7 @@
 -	Ex-colaborador da Difoccus Produções (2004-2017), empresa produtora de formaturas, tendo atuado inicialmente como auxiliar de escritório e finalizando como editor e diretor de vídeo e TI.
 
 ## ATIVIDADES ATUAIS
+-	Colaborador da Universidade La Salle, atuando como Analista de Sistemas EAD Jr.;
 -	Cursando 2º semestre da graduação em Tecnologia em Sistemas para Internet (IFRS Campus Porto Alegre, previsão de formatura em 2021).
 
 ## CONTATO
