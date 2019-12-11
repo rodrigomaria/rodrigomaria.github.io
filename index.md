@@ -1,7 +1,5 @@
 # Rodrigo Antônio Menezes Maria Morgão
 
-## SOBRE
-
 ## Formação Acadêmica:
 1. Tecnólogo em Análise e Desenvolvimento de Sistemas (IFRS Campus Restinga, 2017);
 2. Especialista em Governança de TI (IERGS-Uniasselvi, 2018) e;
