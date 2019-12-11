@@ -2,18 +2,31 @@
 
 ## SOBRE
 
-Sou formado como Tecnólogo em Análise e Desenvolvimento de Sistemas (IFRS Campus Restinga, 2017), Especialista em Governança de TI (IERGS-Uniasselvi, 2018) e MBA em Business Intelligence (Universidade Positivo, 2019).
+## Formação Acadêmica:
+1. Tecnólogo em Análise e Desenvolvimento de Sistemas (IFRS Campus Restinga, 2017);
+2. Especialista em Governança de TI (IERGS-Uniasselvi, 2018) e;
+3. MBA em Business Intelligence (Universidade Positivo, 2019).
 
-Possuo certificações na linguagem de programação Python (Badge Python for Data Science pela IBM® em 2019) e Scrum (Scrum Fundamentals Certified™ pela SCRUMstudy em 2018 e Scrum Foundation Professional Certificate pela CertiProf® em 2019).
+## Experiências Profissionais:
+1. Analista EAD Júnior na Universidade La Salle (2019), instituição de ensino superior privada;
+2. Estagiário Analista e Desenvolvedor de Sistemas na Central do Franqueado (2019), empresa mantenedora da plataforma web/mobile para gerenciamento de franquias;
+3. Consultor de Implantação (Analista de Desenvolvimento de Sistemas) na ITSX (2018-2019), empresa parceira da solução SoftExpert Excellence Suite, como nos componentes Documento (GED), Processo (BPM) e Analytics (BI), com 800 horas de consultoria prestadas;
+4. Bolsista Analista e Desenvolvedor de Sistemas no projeto de desenvolvimento de produtos de software do IFRS Campus Restinga (2015), instituição federal de ensino público;
+5. Auxiliar de Escritório, Editor de Vídeo, Diretor de Vídeo e TI da Difoccus Produções (2004-2017), empresa produtora de formaturas.
 
-Em minhas experiências profissionais atuei:
-1. Quando colaborador da Universidade La Salle (2019), instituição de ensino superior privada, como Analista EAD Júnior;
-2. Quando estagiário da Central do Franqueado (2019), empresa mantenedora da plataforma web/mobile para gerenciamento de franquias, como Analista e Desenvolvedor de Sistemas;
-3. Quando colaborador da ITSX (2018-2019), empresa parceira da solução SoftExpert Excellence Suite, como Consultor de Implantação nos componentes Documento (GED), Processo (BPM) e Analytics (BI), com 800 horas de consultoria prestadas;
-4. Quando bolsista do IFRS Campus Restinga (2015), instituição federal de ensino público, como Analista e Desenvolvedor de Sistemas em projeto de desenvolvimento de produtos de software;
-5. Quando colaborador da Difoccus Produções (2004-2017), empresa produtora de formaturas, inicialmente como Auxiliar de Escritório e finalizando como Editor/Diretor de Vídeo e TI.
+## Certificações:
+1. Badge Python for Data Science pela IBM® em 2019;
+2. Scrum Fundamentals Certified™ pela SCRUMstudy em 2018;
+3. Scrum Foundation Professional Certificate pela CertiProf® em 2018.
 
-Atualmente sou colaborador do TelessaúdeRS UFRGS (2019), núcleo de pesquisa vinculado ao Programa de Pós-Graduação em Epidemiologia da Faculdade de Medicina da Universidade Federal do Rio Grande do Sul (UFRGS), atuando como Assistente Técnico TI Júnior, e estudante do 3º semestre da graduação em Tecnologia em Sistemas para Internet (IFRS Campus Porto Alegre, previsão de formatura em 2021).
+## Palestrante:
+1. The Developer's Conference POA 2019, apresentando o tema "Usando O SUS no SUS" nas trilhas de UX Design e UX Design II; (https://speakerdeck.com/rodrigomariamorgao/usando-o-sus-no-sus)
+2. 20ª Mostra POA do IFRS Campus Porto Alegre, apresentando o projeto de pesquisa "RNA na avaliação de atributo de valor percebido"; (https://speakerdeck.com/rodrigomariamorgao/rna-na-avaliacao-de-atributo-de-valor-percebido)
+3. 2º SEMEPT do IFRS, apresentando o projeto de ensino "Programa de prática de desenvolvimento de software". (https://speakerdeck.com/rodrigomariamorgao/programa-de-pratica-de-desenvolvimento-de-software)
+
+## Ocupações Atuais:
+1. Colaborador do TelessaúdeRS UFRGS (2019), núcleo de pesquisa vinculado ao Programa de Pós-Graduação em Epidemiologia da Faculdade de Medicina da Universidade Federal do Rio Grande do Sul (UFRGS), atuando como Assistente Técnico TI Júnior;
+2. Acadêmico do 3º semestre no curso de Tecnologia em Sistemas para Internet (IFRS Campus Porto Alegre, previsão de conclusão para 2021).
 
 ## CONTATO
 [LinkedIn](https://www.linkedin.com/in/rodrigomaria/)
