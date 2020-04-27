@@ -6,11 +6,12 @@
 3. MBA em Business Intelligence (Universidade Positivo, 2019).
 
 ## Experiências Profissionais:
-1. Analista EAD Júnior na Universidade La Salle (2019), instituição de ensino superior privada;
-2. Estagiário Analista e Desenvolvedor de Sistemas na Central do Franqueado (2019), empresa mantenedora da plataforma web/mobile para gerenciamento de franquias;
-3. Consultor de Implantação (Analista de Desenvolvimento de Sistemas) na ITSX (2018-2019), empresa parceira da solução SoftExpert Excellence Suite, como nos componentes Documento (GED), Processo (BPM) e Analytics (BI), com 800 horas de consultoria prestadas;
-4. Bolsista Analista e Desenvolvedor de Sistemas no projeto de desenvolvimento de produtos de software do IFRS Campus Restinga (2015), instituição federal de ensino público;
-5. Auxiliar de Escritório, Editor de Vídeo, Diretor de Vídeo e TI da Difoccus Produções (2004-2017), empresa produtora de formaturas.
+1. Assistente Técnico TI Júnior no TelessaúdeRS UFRGS (2019), núcleo de pesquisa vinculado ao Programa de Pós-Graduação em Epidemiologia da Faculdade de Medicina da Universidade Federal do Rio Grande do Sul (UFRGS);
+2. Analista EAD Júnior na Universidade La Salle (2019), instituição de ensino superior privada;
+3. Estagiário Analista e Desenvolvedor de Sistemas na Central do Franqueado (2019), empresa mantenedora da plataforma web/mobile para gerenciamento de franquias;
+4. Consultor de Implantação (Analista de Desenvolvimento de Sistemas) na ITSX (2018-2019), empresa parceira da solução SoftExpert Excellence Suite, como nos componentes Documento (GED), Processo (BPM) e Analytics (BI), com 800 horas de consultoria prestadas;
+5. Bolsista Analista e Desenvolvedor de Sistemas no projeto de desenvolvimento de produtos de software do IFRS Campus Restinga (2015), instituição federal de ensino público;
+6. Auxiliar de Escritório, Editor de Vídeo, Diretor de Vídeo e TI da Difoccus Produções (2004-2017), empresa produtora de formaturas.
 
 ## Certificações:
 1. Badge Python for Data Science pela IBM® em 2019;
@@ -23,8 +24,8 @@
 3. 2º SEMEPT do IFRS, apresentando o projeto de ensino "Programa de prática de desenvolvimento de software". (https://speakerdeck.com/rodrigomariamorgao/programa-de-pratica-de-desenvolvimento-de-software)
 
 ## Ocupações Atuais:
-1. Colaborador do TelessaúdeRS UFRGS (2019), núcleo de pesquisa vinculado ao Programa de Pós-Graduação em Epidemiologia da Faculdade de Medicina da Universidade Federal do Rio Grande do Sul (UFRGS), atuando como Assistente Técnico TI Júnior;
+1. Analista de Desenvolvimento de Software Pleno na Azion, mantenedora de plataforma de edge para construir e executar aplicações com baixa latência e análise de dados em tempo real.
 2. Acadêmico do 3º semestre no curso de Tecnologia em Sistemas para Internet (IFRS Campus Porto Alegre, previsão de conclusão para 2021).
 
 ## CONTATO
-[LinkedIn](https://www.linkedin.com/in/rodrigomaria/)
+[LinkedIn](https://www.linkedin.com/in/rodrigomariamorgao/)
