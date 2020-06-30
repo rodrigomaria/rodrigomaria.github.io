@@ -24,8 +24,10 @@
 3. 2º SEMEPT do IFRS, apresentando o projeto de ensino "Programa de prática de desenvolvimento de software". [https://speakerdeck.com/rodrigomariamorgao/programa-de-pratica-de-desenvolvimento-de-software](https://speakerdeck.com/rodrigomariamorgao/programa-de-pratica-de-desenvolvimento-de-software)
 
 ## Ocupações Atuais:
-1. Analista de Desenvolvimento de Software Pleno na Azion, mantenedora de plataforma de edge para construir e executar aplicações com baixa latência e análise de dados em tempo real.
-2. Acadêmico do 3º semestre no curso de Tecnologia em Sistemas para Internet (IFRS Campus Porto Alegre, previsão de conclusão para 2021).
+1. Analista de Desenvolvimento de Software Pleno na Azion, mantenedora de plataforma de edge para construir e executar aplicações com baixa latência e análise de dados em tempo real;
+2. Acadêmico do 3º semestre no curso de Tecnologia em Sistemas para Internet (IFRS Campus Porto Alegre, previsão de conclusão para 2021);
+3. Estudante de Data Science na plataforma [Sigmoidal](https://sigmoidal.ai/);
+4. Estudante de Data Science no [AceleraDev](https://www.codenation.dev/acceleration/aceleradev-data-science/).
 
-## CONTATO
-[LinkedIn](https://www.linkedin.com/in/rodrigomariamorgao/)
+## CONTATOS
+[Linktree](https://linktr.ee/rodrigomariamorgao )
