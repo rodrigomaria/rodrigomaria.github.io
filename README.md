@@ -8,7 +8,7 @@ Repositório do site pessoal de Rodrigo Antônio Menezes Maria Morgão.
 [Resume](https://startbootstrap.com/themes/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 ## Preview
-<img src="./img_readme/print.png"/>
+<img src="./docs/preview.png"/>
 
 **[View Live Preview](https://rodrigomariamorgao.github.io/)**
 
