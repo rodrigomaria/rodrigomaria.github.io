@@ -1,5 +1,5 @@
 # Template utilizado para criação do CV
-# rodrigomariamorgao.github.io
+# rodrigomaria.github.io
 
 Repositório do site pessoal de Rodrigo Antônio Menezes Maria Morgão.
 
@@ -10,7 +10,8 @@ Repositório do site pessoal de Rodrigo Antônio Menezes Maria Morgão.
 ## Preview
 <img src="./docs/preview.png"/>
 
-**[View Live Preview](https://rodrigomariamorgao.github.io/)**
+**[View Live Preview - GitHub](https://rodrigomaria.github.io)**
+**[View Live Preview - Domain rodrigomaria.com.br](https://rodrigomaria.com.br)**
 
 ## Status
 
