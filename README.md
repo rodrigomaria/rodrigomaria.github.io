@@ -1,7 +1,7 @@
 # Template utilizado para criação do CV
 # rodrigomaria.github.io
 
-Repositório do site pessoal de Rodrigo Antônio Menezes Maria Morgão.
+Repositório do site pessoal de Rodrigo Antônio Menezes Maria.
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/themes/resume/)
 
