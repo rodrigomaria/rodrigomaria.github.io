@@ -1,11 +1,12 @@
 # Template utilizado para criação do CV
 # rodrigomaria.github.io
+# rodrigomaria.com.br
 
-Repositório do site pessoal de Rodrigo Antônio Menezes Maria.
+Repositório do portfólio pessoal de Rodrigo Antônio Menezes Maria.
 
-# [Start Bootstrap - Resume](https://startbootstrap.com/themes/resume/)
+# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
-[Resume](https://startbootstrap.com/themes/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 ## Preview
 <img src="./docs/preview.png"/>
@@ -25,7 +26,7 @@ Repositório do site pessoal de Rodrigo Antônio Menezes Maria.
 
 To begin using this template, choose one of the following options to get started:
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/resume/)
+- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
 - Install using npm: `npm i startbootstrap-resume`
 - Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
 - [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
@@ -58,7 +59,7 @@ You must have npm installed in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/themes/resume/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
 
 ## About
 
